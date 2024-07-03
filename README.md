@@ -23,6 +23,6 @@ To ensure a smooth and immersive gameplay experience, this modpack includes nume
 ## Conclusion
 The Ultimate Tech and Exploration Modpack offers a unique blend of technology, exploration, and performance enhancements. Whether you're a seasoned engineer, an aspiring astronaut, or a coder at heart, this modpack has something for everyone. Embark on an unforgettable journey and transform the way you play Minecraft.
 
-**Issues** on [GitHub]() for support, updates, and to share your creations!
+**Issues** on [GitHub](https://github.com/snlaf/CreateVanilla/issues) for support, updates, and to share your creations!
 
 Happy crafting and exploring!
