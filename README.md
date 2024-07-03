@@ -1,7 +1,7 @@
-# Ultimate Tech and Exploration Modpack
+# CreateVanilla
 
 ## Overview
-Welcome to the **Ultimate Tech and Exploration Modpack**, a meticulously curated collection of mods designed to enhance your Minecraft experience with advanced technology, incredible skies, interstellar adventures, and optimized performance. Dive into a world where creativity, engineering, and exploration know no bounds.
+Welcome to **CreateVanilla**, a meticulously curated collection of mods designed to enhance your Minecraft experience with advanced technology, incredible skies, interstellar adventures, and optimized performance. Dive into a world where creativity, engineering, and exploration know no bounds.
 
 ## Featured Mods
 
